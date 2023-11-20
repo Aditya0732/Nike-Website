@@ -9,6 +9,7 @@ import {
   Footer,
 } from './sections'
 import Nav from './components/Nav';
+import { Routes,Route } from 'react-router-dom';
 
 const App = () => (
   <main className="relative">
